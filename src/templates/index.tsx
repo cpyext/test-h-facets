@@ -10,7 +10,7 @@ import {
 } from "@yext/pages";
 import PageLayout from "../components/page-layout";
 import "../index.css";
-import SearchPage from "../SearchPage";
+import SearchPage from "../components/SearchPage";
 
 export const config: TemplateConfig = {
   name: "search",
